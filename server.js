@@ -2,7 +2,7 @@ import express from 'express'
 import data from './data/data.json'
 
 const path = require('path');
-
+const port = process.env.PORT || 8080
 const app = express()
 
 app.get("/", (req, res) => {
@@ -14,4 +14,6 @@ app.get("/media/:image", (req, res) => {
   res.sendFile(image, { root: path.join(__dirname, './data/media') });
 })
 
-app.listen(3000)
+app.listen(port, () => {
+  console.log(`Server running on http://localhost:${port}`)
+})
