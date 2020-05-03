@@ -5,7 +5,7 @@ const path = require('path');
 const port = process.env.PORT || 8080
 const app = express()
 const cors = require('cors')
-
+process.env.PWD = process.cwd();
 const whitelist = ['http://localhost:3000', 'https://malins-portfolio.netlify.app']
 
 const corsOptions = {
@@ -27,7 +27,7 @@ app.get("/", (req, res) => {
 
 app.get("/media/:image", (req, res) => {
   const image = req.params.image
-  res.sendFile(image, { root: path.join(__dirname, './data/media') });
+  res.sendFile(image, { root: path.join(process.env.PWD, './data/media') });
 })
 
 app.listen(port, () => {
