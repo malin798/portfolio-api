@@ -1,0 +1,141 @@
+{ 
+  "about": {
+    "title": "About me",
+    "text": "My name is Malin Andersson and I started the Technigo Bootcamp in January 2020. During the intense bootcamp I have learned HTML, CSS, JavaScript, React and Node.js. What makes me a great developer is that I am a very structured person and I am always curious to learn more and get feedback on my code."
+  },
+  "skills": [
+    {
+      "title": "CODE",
+      "skills": [
+        "Javascript",
+        "React",
+        "Redux",
+        "ES6",
+        "React Native",
+        "HTML5",
+        "SCSS",
+        "CSS",
+        "Flexbox",
+        "Node.js"
+      ]
+    }, 
+    {
+      "title":"TOOLBOX",
+      "skills": [
+        "Visual Studio Code",
+        "Postman",
+        "Github",
+        "Netlify",
+        "Android Studio",
+        "Heroku",
+        "Express"
+      ]
+    },
+      {
+        "title": "MORE",
+        "skills": [
+          "Customer Care",
+          "Structured  and clean code",
+          "Remote work",
+          "Mob and pair programming",
+          "Agile methodology"
+        ]
+      }
+  ],
+  "featured_projects": [
+    {
+      "title": "PIZZA BOT.",
+      "description": "Web app built in Javascript ",
+      "link": "https://malins-pizza-bot-project.netlify.com",
+      "alt": "pizza bot project",
+      "image": "featured-project-pizza-place.png",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "Javascript ES6"
+      ]
+    },
+    {
+      "title": "CLUEDO.",
+      "description": "Web app built in Javascript ",
+      "link": "https://malins-project-clue.netlify.com/",
+      "alt": "Cluedo project",
+      "image": "featured-project-pizza-place.png",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "Javascript ES6"
+      ]
+    },
+    {
+      "title": "WEATHER APP.",
+      "description": "Web app built in Javascript using open weather API ",
+      "link": "https://malins-weather-app.netlify.com/",
+      "alt": "Weather App project",
+      "image": "featured-project-pizza-place.png",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "Javascript ES6",
+        "API"
+      ]
+    },
+    {
+      "title": "BUSINESS SITE.",
+      "description": "Web app built in Javascript ",
+      "link": "https://malins-business-site.netlify.com/",
+      "alt": "Business site project",
+      "image": "featured-project-pizza-place.png",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "Javascript ES6"
+      ]
+    }
+  ],
+
+  "other_projects": [
+    {
+      "title": "Survey project.",
+      "description": "Web app built in React ",
+      "link": "https://malins-survey.netlify.com/",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "React",
+        "Javascript ES6"
+      ]
+    },
+    {
+      "title": "Music releases.",
+      "description": "Web app built in React using spotify API ",
+      "link": "https://admiring-tereshkova-e261c1.netlify.com/",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "React",
+        "Javascript ES6"
+      ]
+    },
+    {
+      "title": "Happy thoughts.",
+      "description": "Web app built in React using an API - fetching and posting ",
+      "link": "https://admiring-tereshkova-e261c1.netlify.com/",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "React",
+        "Javascript ES6"
+      ]
+    }
+  ],
+  "tech-section": 
+    {
+      "title": "TECH",
+      "description": "HTML, CSS, Flexbox, JavaScript, ES6, JSX, React, React Hooks, Redux, Node.js, Mongo DB, Web Accessibility, API:s, mob-programming, pair-programming, Github"
+    }
+}
+
+
+  
+    
