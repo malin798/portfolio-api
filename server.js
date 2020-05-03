@@ -4,6 +4,9 @@ import data from './data/data.json'
 const path = require('path');
 const port = process.env.PORT || 8080
 const app = express()
+const cors = require('cors')
+
+app.use(cors())
 
 app.get("/", (req, res) => {
   res.json(data)
