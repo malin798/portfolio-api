@@ -6,7 +6,19 @@ const port = process.env.PORT || 8080
 const app = express()
 const cors = require('cors')
 
-app.use(cors())
+const whitelist = ['http://localhost:3000', 'https://malins-portfolio.netlify.app']
+
+const corsOptions = {
+  origin: function (origin, callback) {
+    if (whitelist.indexOf(origin) !== -1) {
+      callback(null, true)
+    } else {
+      callback(new Error('Not allowed by CORS'))
+    }
+  }
+}
+
+app.use(cors(corsOptions))
 
 app.get("/", (req, res) => {
   res.json(data)
