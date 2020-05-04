@@ -56,19 +56,6 @@
       ]
     },
     {
-      "title": "PROJECT TO DO.",
-      "description": "Web app built in React using Redux and CSS ",
-      "link": "https://malins-todo-app.netlify.app/",
-      "alt": "project todo app",
-      "image": "https://i.imgur.com/wtYypfw.png",
-      "tags": [
-        "REACT",
-        "REDUX",
-        "CSS3",
-        "Javascript ES6"
-      ]
-    },
-    {
       "title": "PROJECT NUTRITION.",
       "description": "Web app built in React using Redux and SCSS ",
       "link": "https://malins-project-nutrition.netlify.app/",
@@ -78,6 +65,19 @@
         "REACT",
         "REDUX",
         "SCSS",
+        "Javascript ES6"
+      ]
+    },
+    {
+      "title": "PROJECT TO DO.",
+      "description": "Web app built in React using Redux and CSS ",
+      "link": "https://malins-todo-app.netlify.app/",
+      "alt": "project todo app",
+      "image": "https://i.imgur.com/wtYypfw.png",
+      "tags": [
+        "REACT",
+        "REDUX",
+        "CSS3",
         "Javascript ES6"
       ]
     },
@@ -135,7 +135,7 @@
       "description": "Web app built in Javascript using open weather API ",
       "link": "https://malins-weather-app.netlify.com/",
       "alt": "Weather App project",
-      "image": "https://i.imgur.com/kTRbqgP.png",
+      "image": "https://i.imgur.com/1Ilop4b.png?1",
       "tags": [
         "HTML5",
         "CSS3",
