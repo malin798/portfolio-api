@@ -70,6 +70,18 @@
       ]
     },
     {
+      "title": "MOVIE PROJECT.",
+      "description": "Web app built in React ",
+      "link": "https://malins-movie-project.netlify.app",
+      "alt": "Movie project",
+      "image": "https://i.imgur.com/xdvnaUt.png",
+      "tags": [
+        "REACT",
+        "CSS3",
+        "Javascript ES6"
+      ]
+    },
+    {
       "title": "PROJECT SURVEY.",
       "description": "Web app built in React using hooks ",
       "link": "https://malins-survey.netlify.app/",
@@ -130,25 +142,13 @@
         "Javascript ES6",
         "API"
       ]
-    },
-    {
-      "title": "MOVIE PROJECT.",
-      "description": "Web app built in React ",
-      "link": "https://malins-movie-project.netlify.app",
-      "alt": "Movie project",
-      "image": "https://i.imgur.com/xdvnaUt.png",
-      "tags": [
-        "REACT",
-        "CSS3",
-        "Javascript ES6"
-      ]
     }
   ],
 
   "other_projects": [
     {
       "title": "Quiz App.",
-      "description": "Team prooject. Web app built in React using Redux",
+      "description": "Team project. Web app built in React using Redux",
       "link": "https://team-tigers-quiz.netlify.app",
       "tags": [
         "React",
