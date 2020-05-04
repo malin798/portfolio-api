@@ -43,6 +43,57 @@
       }
   ],
   "featured_projects": [
+       {
+      "title": "PROJECT NUTRITION.",
+      "description": "Web app built in React using Redux and SCSS ",
+      "link": "https://malins-project-nutrition.netlify.app/",
+      "alt": "project nutrition",
+      "image": "https://i.imgur.com/09iohRV.png",
+      "tags": [
+        "REACT",
+        "REDUX",
+        "SCSS",
+        "Javascript ES6"
+      ]
+    },
+    {
+      "title": "PROJECT TO-DO-APP.",
+      "description": "Web app built in React using Redux and CSS ",
+      "link": "https://malins-todo-app.netlify.app/",
+      "alt": "project todo app",
+      "image": "https://i.imgur.com/Z0okuPx.png",
+      "tags": [
+        "REACT",
+        "REDUX",
+        "CSS3",
+        "Javascript ES6"
+      ]
+    },
+    {
+      "title": "PROJECT SURVEY.",
+      "description": "Web app built in React using hooks ",
+      "link": "https://malins-survey.netlify.app/",
+      "alt": "project survey",
+      "image": "https://i.imgur.com/ccry0kR.png",
+      "tags": [
+        "REACT",
+        "CSS3",
+        "Javascript ES6"
+      ]
+    },
+    {
+      "title": "PROJECT HAPPY THOUGHTS.",
+      "description": "Web app built in React using Redux ",
+      "link": "https://malins-project-happy-thoughts.netlify.app/",
+      "alt": "project happy thoughts",
+      "image": "https://i.imgur.com/Tvsiuh4.png?1",
+      "tags": [
+        "REACT",
+        "REDUX",
+        "CSS3",
+        "Javascript ES6"
+      ]
+    },
     {
       "title": "PIZZA BOT.",
       "description": "Web app built in Javascript ",
@@ -81,13 +132,13 @@
       ]
     },
     {
-      "title": "BUSINESS SITE.",
-      "description": "Web app built in Javascript ",
-      "link": "https://malins-business-site.netlify.com/",
-      "alt": "Business site project",
-      "image": "https://i.imgur.com/aOxQKPO.png",
+      "title": "MOVIE PROJECT.",
+      "description": "Web app built in React ",
+      "link": "https://malins-movie-project.netlify.app",
+      "alt": "Movie project",
+      "image": "https://i.imgur.com/xdvnaUt.png",
       "tags": [
-        "HTML5",
+        "REACT",
         "CSS3",
         "Javascript ES6"
       ]
@@ -96,13 +147,13 @@
 
   "other_projects": [
     {
-      "title": "Survey project.",
-      "description": "Web app built in React ",
-      "link": "https://malins-survey.netlify.com/",
+      "title": "Quiz App.",
+      "description": "Team prooject. Web app built in React using Redux",
+      "link": "https://team-tigers-quiz.netlify.app",
       "tags": [
-        "HTML5",
-        "CSS3",
         "React",
+        "Redux",
+        "CSS3",
         "Javascript ES6"
       ]
     },
@@ -118,13 +169,21 @@
       ]
     },
     {
-      "title": "Happy thoughts.",
-      "description": "Web app built in React using an API - fetching and posting ",
-      "link": "https://admiring-tereshkova-e261c1.netlify.com/",
+      "title": "Card Project.",
+      "description": "Reusable components built in React ",
+      "link": "https://malins-card-practice.netlify.app/",
+      "tags": [
+        "React",
+        "CSS3"
+      ]
+    },
+    {
+      "title": "Business site.",
+      "description": "Web app built with HTML and Javascript ",
+      "link": "https://malins-business-site.netlify.com/",
       "tags": [
         "HTML5",
         "CSS3",
-        "React",
         "Javascript ES6"
       ]
     }
