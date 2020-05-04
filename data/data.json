@@ -43,16 +43,15 @@
       }
   ],
   "featured_projects": [
-       {
-      "title": "PROJECT NUTRITION.",
-      "description": "Web app built in React using Redux and SCSS ",
-      "link": "https://malins-project-nutrition.netlify.app/",
-      "alt": "project nutrition",
-      "image": "https://i.imgur.com/09iohRV.png",
+    {
+      "title": "MOVIE PROJECT.",
+      "description": "Web app built in React ",
+      "link": "https://malins-movie-project.netlify.app",
+      "alt": "Movie project",
+      "image": "https://i.imgur.com/xdvnaUt.png",
       "tags": [
         "REACT",
-        "REDUX",
-        "SCSS",
+        "CSS3",
         "Javascript ES6"
       ]
     },
@@ -70,14 +69,15 @@
       ]
     },
     {
-      "title": "MOVIE PROJECT.",
-      "description": "Web app built in React ",
-      "link": "https://malins-movie-project.netlify.app",
-      "alt": "Movie project",
-      "image": "https://i.imgur.com/xdvnaUt.png",
+      "title": "PROJECT NUTRITION.",
+      "description": "Web app built in React using Redux and SCSS ",
+      "link": "https://malins-project-nutrition.netlify.app/",
+      "alt": "project nutrition",
+      "image": "https://i.imgur.com/09iohRV.png",
       "tags": [
         "REACT",
-        "CSS3",
+        "REDUX",
+        "SCSS",
         "Javascript ES6"
       ]
     },
