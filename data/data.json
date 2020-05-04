@@ -107,30 +107,6 @@
       ]
     },
     {
-      "title": "PIZZA BOT.",
-      "description": "Web app built in Javascript ",
-      "link": "https://malins-pizza-bot-project.netlify.com",
-      "alt": "pizza bot project",
-      "image": "https://i.imgur.com/B6yrpmT.png",
-      "tags": [
-        "HTML5",
-        "CSS3",
-        "Javascript ES6"
-      ]
-    },
-    {
-      "title": "CLUEDO.",
-      "description": "Web app built in Javascript ",
-      "link": "https://malins-project-clue.netlify.com/",
-      "alt": "Cluedo project",
-      "image": "https://i.imgur.com/ra8kWr4.png",
-      "tags": [
-        "HTML5",
-        "CSS3",
-        "Javascript ES6"
-      ]
-    },
-    {
       "title": "WEATHER APP.",
       "description": "Web app built in Javascript using open weather API ",
       "link": "https://malins-weather-app.netlify.com/",
@@ -141,6 +117,30 @@
         "CSS3",
         "Javascript ES6",
         "API"
+      ]
+    },
+    {
+      "title": "CLUEDO.",
+      "description": "Web app built in Javascript ",
+      "link": "https://malins-project-clue.netlify.com/",
+      "alt": "Cluedo project",
+      "image": "https://i.imgur.com/h36X28R.png",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "Javascript ES6"
+      ]
+    },
+    {
+      "title": "PIZZA BOT.",
+      "description": "Web app built in Javascript ",
+      "link": "https://malins-pizza-bot-project.netlify.com",
+      "alt": "pizza bot project",
+      "image": "https://i.imgur.com/B6yrpmT.png",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "Javascript ES6"
       ]
     }
   ],
