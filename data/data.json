@@ -44,6 +44,20 @@
   ],
   "featured_projects": [
     {
+      "title": "PROJECT HAPPY THOUGHTS.",
+      "description": "Web app built in React, MongoDB and Mongoose",
+      "link": "https://malins-happy-thoughts-my-api.netlify.app",
+      "alt": "project happy thoughts",
+      "image": "https://i.imgur.com/DDnV7hV.png",
+      "tags": [
+        "REACT",
+        "SCSS",
+        "MongoDB",
+        "Mongoose",
+        "Javascript ES6"
+      ]
+    },
+    {
       "title": "MOVIE PROJECT.",
       "description": "Web app built in React ",
       "link": "https://malins-movie-project.netlify.app",
@@ -89,19 +103,6 @@
       "image": "https://i.imgur.com/ccry0kR.png",
       "tags": [
         "REACT",
-        "CSS3",
-        "Javascript ES6"
-      ]
-    },
-    {
-      "title": "PROJECT HAPPY THOUGHTS.",
-      "description": "Web app built in React using Redux ",
-      "link": "https://malins-project-happy-thoughts.netlify.app/",
-      "alt": "project happy thoughts",
-      "image": "https://i.imgur.com/Tvsiuh4.png?1",
-      "tags": [
-        "REACT",
-        "REDUX",
         "CSS3",
         "Javascript ES6"
       ]
