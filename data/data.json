@@ -1,7 +1,10 @@
 { 
   "about": {
     "title": "About me",
-    "text": "My name is Malin Andersson and I started the Technigo Bootcamp in January 2020. During the intense bootcamp I have learned JavaScript, React, HTML, SCSS, and Node.js. What makes me a great developer is that I am a very structured person and I am always curious to learn more and get feedback on my code. During the 24 week long education I made one project each week which gave me a lot of practical experience in coding! \n\n In bootcamp I have developed my projects using the latest industry standards and relevant technologies. I also have a Bachelor's degree in Human Resource Management from Karlstad University, as well as completed courses in English I, II and III. I have worked with customer service and sales since 2008. This experience has taught me how to help customers realize their needs and find suiting products."
+    "text": {
+      "intro" : "My name is Malin Andersson and I started the Technigo Bootcamp in January 2020. During the intense bootcamp I have learned JavaScript, React, HTML, SCSS, and Node.js. What makes me a great developer is that I am a very structured person and I am always curious to learn more and get feedback on my code. During the 24 week long education I made one project each week which gave me a lot of practical experience in coding! In bootcamp I have developed my projects using the latest industry standards and relevant technologies.", 
+      "paragraph" : "I also have a Bachelor's degree in Human Resource Management from Karlstad University, as well as completed courses in English I, II and III. I have worked with customer service and sales since 2008. This experience has taught me how to help customers realize their needs and find suiting products."
+    }
   },
   "skills": [
     {
