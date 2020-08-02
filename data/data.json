@@ -48,7 +48,7 @@
   "featured_projects": [
     {
       "title": "ADVENTURE BUSINESS SITE.",
-      "description": "Web app built in HTML, Javascript and Jquery",
+      "description": "Web app built in HTML, Javascript and jQuery",
       "link": "https://adventure-time-business-site.netlify.app/",
       "alt": "project adventure business site",
       "image": "https://i.imgur.com/3KdpV5z.png",
@@ -56,7 +56,7 @@
         "HTML",
         "CSS",
         "Javascript",
-        "Jquery"
+        "jQuery"
       ]
     },
     {
