@@ -47,6 +47,19 @@
   ],
   "featured_projects": [
     {
+      "title": "ADVENTURE BUSINESS SITE.",
+      "description": "Web app built in HTML, Javascript and Jquery",
+      "link": "https://adventure-time-business-site.netlify.app/",
+      "alt": "project adventure business site",
+      "image": "https://imgur.com/3KdpV5z",
+      "tags": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Jquery"
+      ]
+    },
+    {
       "title": "PROJECT HAPPY THOUGHTS.",
       "description": "Web app built in React, MongoDB and Mongoose",
       "link": "https://malins-happy-thoughts-my-api.netlify.app",
@@ -69,19 +82,6 @@
       "tags": [
         "REACT",
         "CSS3",
-        "Javascript ES6"
-      ]
-    },
-    {
-      "title": "PROJECT NUTRITION.",
-      "description": "Web app built in React using Redux and SCSS ",
-      "link": "https://malins-project-nutrition.netlify.app/",
-      "alt": "project nutrition",
-      "image": "https://i.imgur.com/kaanvXd.png",
-      "tags": [
-        "REACT",
-        "REDUX",
-        "SCSS",
         "Javascript ES6"
       ]
     },
