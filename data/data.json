@@ -61,6 +61,19 @@
       ]
     },
     {
+      "title": "FINAL PROJECT.",
+      "description": "Web app built in React, Redux, Javascript and SCSS",
+      "link": "https://malins-final-project.netlify.app",
+      "alt": "final project",
+      "image": "https://i.imgur.com/rrXFPeg.png",
+      "tags": [
+        "REACT",
+        "SCSS",
+        "Javascript",
+        "Redux"
+      ]
+    },
+    {
       "title": "PROJECT HAPPY THOUGHTS.",
       "description": "Web app built in React, MongoDB and Mongoose",
       "link": "https://malins-happy-thoughts-my-api.netlify.app",
@@ -135,22 +148,20 @@
         "CSS3",
         "Javascript ES6"
       ]
-    },
+    }
+  ],
+
+  "other_projects": [
     {
       "title": "PIZZA BOT.",
       "description": "Web app built in Javascript ",
       "link": "https://malins-pizza-bot-project.netlify.com",
-      "alt": "pizza bot project",
-      "image": "https://i.imgur.com/B6yrpmT.png",
       "tags": [
         "HTML5",
         "CSS3",
         "Javascript ES6"
       ]
-    }
-  ],
-
-  "other_projects": [
+    },
     {
       "title": "Quiz App.",
       "description": "Team project. Web app built in React using Redux",
@@ -196,7 +207,7 @@
   "tech_section": 
     {
       "title": "TECH",
-      "description": "HTML, CSS, Flexbox, JavaScript, ES6, JSX, React, React Hooks, Redux, Node.js, Mongo DB, Web Accessibility, API:s, mob-programming, pair-programming, Github"
+      "description": "HTML, CSS, SCSS, Flexbox, JavaScript, ES6, JSX, React, React Hooks, jQuery, Redux, Node.js, Mongo DB, Web Accessibility, API:s, mob-programming, pair-programming, Github"
     }
 }
 
